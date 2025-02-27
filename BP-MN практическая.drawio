@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36" version="26.0.16" pages="2">
   <diagram name="Страница — 1" id="1gRCo7CSVKfPHHqEsFrh">
-    <mxGraphModel dx="3476" dy="1431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2681" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -308,7 +308,7 @@
         <mxCell id="y7sOQWrAvTqIUeYnkiv4-103" value="Заказ получен" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="4g2cCyfrvSWflpvDvrXQ-1" vertex="1">
           <mxGeometry x="2550" y="60" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nsYG7cW8gA6W0VQyh2gD-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="4g2cCyfrvSWflpvDvrXQ-1">
+        <mxCell id="nsYG7cW8gA6W0VQyh2gD-1" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="4g2cCyfrvSWflpvDvrXQ-1" vertex="1">
           <mxGeometry x="1630" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4g2cCyfrvSWflpvDvrXQ-3" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
