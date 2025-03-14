@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "26cfbd52a316d177",
+        "id": "a1e4618f215a8545",
         "type": "tabs",
         "children": [
           {
-            "id": "1958080ddf54796e",
+            "id": "3ae812ee1c94a655",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: app.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -179,7 +175,7 @@
       "iconic:Открыть свод правил": false
     }
   },
-  "active": "1958080ddf54796e",
+  "active": "3ae812ee1c94a655",
   "lastOpenFiles": [
     "README.md",
     "BP-MN практическая.drawio.svg",
