@@ -1,1 +1,3 @@
 # diagrams.net
+![[Diagram.svg]]
+
